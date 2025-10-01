@@ -2,7 +2,7 @@
 <h3 align="center">🎓 CSE Undergrad | 💻 Software Development Enthusiast | 🤖 Future AI/ML Explorer</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahid2220&label=Profile%20views&color=0e75b6&style=flat" alt="nahid2220" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NurAlamNahidSarkar&label=Profile%20views&color=0e75b6&style=flat" alt="NurAlamNahidSarkar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nurnahid2220" target="blank"><img src="https://img.shields.io/twitter/follow/nurnahid2220?logo=twitter&style=for-the-badge" alt="nurnahid2220" /></a> </p>
 <img align="right"  src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding Animation" width="200" height="200">
